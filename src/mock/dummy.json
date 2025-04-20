@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "title": "미키 17",
+    "releaseDate": "2025-02-28",
+    "company": "워너 브라더스 코리아",
+    "genres": ["모험", "드라마", "SF", "코미디"],
+    "subTitle": "당신은 몇 번째 미키입니까?",
+    "description": "“당신은 몇 번째 미키입니까?” 친구 ‘티모’와 함께 차린 마카롱 가게가 쫄딱 망해 거액의 빚을 지고 못 갚으면 죽이겠다는 사채업자를 피해 지구를 떠나야 하는 ‘미키’. 기술이 없는 그는, 정치인 ‘마셜’의 얼음행성 개척단에서 위험한 일을 도맡고, 죽으면 다시 프린트되는 익스펜더블로 지원한다. 4년의 항해와 얼음행성 니플하임에 도착한 뒤에도 늘 ‘미키’를 지켜준 여자친구 ‘나샤’. 그와 함께, ‘미키’는 반복되는 죽음과 출력의 사이클에도 익숙해진다. 그러나 ‘미키 17’이 얼음행성의 생명체인 ‘크리퍼’와 만난 후 죽을 위기에서 돌아와 보니 이미 ‘미키 18’이 프린트되어 있다. 행성 당 1명만 허용된 익스펜더블이 둘이 된 ‘멀티플’ 상황. 둘 중 하나는 죽어야 하는 현실 속에 걷잡을 수 없는 사건이 기다리고 있었으니… “자알 죽고, 내일 만나”",
+    "runtime": 137,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250207_265%2F1738893336962Cn1Vd_JPEG%2Fmovie_image.jpg"
+  },
+  {
+    "id": 2,
+    "title": "검은 수녀들",
+    "releaseDate": "2025-01-24",
+    "company": "(주)NEW",
+    "genres": ["미스터리", "드라마"],
+    "subTitle": "금지된 곳으로 갈 준비가 되었습니다. 원칙은 단 하나, 무조건 살린다!",
+    "description": "금지된 곳으로 갈 준비가 되었습니다. ‘유니아’ 수녀(송혜교)는 ‘희준’(문우진)의 몸에 숨어든 악령이 12형상 중 하나라고 확신한다. 당장 올 수 없는 구마 사제를 기다리다가 부마자가 희생될 것이 분명한 상황. 결국 ‘유니아’는 소년을 구하기 위해 ‘서품을 받지 못한 수녀는 구마를 할 수 없다’는 금기를 깨기로 결심한다. 하지만 담당의는 ‘희준’을 살릴 수 있는 것은 오직 의학이라 믿는 ‘바오로’ 신부(이진욱). 우연한 기회에 그의 제자 ‘미카엘라’ 수녀(전여빈)의 비밀을 알아챈 ‘유니아’는 ‘희준’을 병원에서 빼내기 위해 막무가내로 도움을 요청한다. ‘미카엘라’는 거침없는 ‘유니아’ 에게 반발심을 느끼지만, 동질감이 느껴지는 ‘희준’을 위해 힘을 보태기로 한다. 마침내 두 수녀는 수단과 방법을 가리지 않고 오직 소년을 살리기 위한 위험한 의식을 시작하는데... 원칙은 단 하나, 무조건 살린다!",
+    "runtime": 114,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250120_54%2F1737354989887Wp150_JPEG%2Fmovie_image.jpg"
+  },
+  {
+    "id": 3,
+    "title": "아이유 콘서트 : 더 위닝",
+    "releaseDate": "2025-01-24",
+    "company": "CGV ICECON, CJ 4DPLEX",
+    "genres": ["공연실황"],
+    "subTitle": "최초의 아이콘 아이유, 100번째 콘서트로 완성된 찬란한 기록",
+    "description": "최초의 아이콘 아이유, 100번째 콘서트로 완성된 찬란한 기록. 'Love wins all', '홀씨', 'Shopper', 'Celebrity', 'Last Fantasy' 등 수많은 명곡으로 서울월드컵경기장을 가득 채운 아이유와 유애나의 뜨거운 에너지와 함성. 상암 하늘을 수놓은 환상적인 드론쇼까지! 승리를 위해 달려온 여정의 마지막 챕터가 지금 스크린에서 펼쳐진다!",
+    "runtime": 124,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250108_174%2F1736328720692tngqd_JPEG%2Fmovie_image.jpg"
+  },
+  {
+    "id": 4,
+    "title": "캡틴 아메리카: 브레이브 뉴 월드",
+    "releaseDate": "2025-02-12",
+    "company": "월트디즈니 컴퍼니 코리아",
+    "genres": ["액션", "모험", "SF"],
+    "subTitle": "새로운 캡틴 아메리카의 대 활약",
+    "description": "대통령이 된 새디우스 로스와 재회 후, 국제적인 사건의 중심에 서게 된 샘이 전 세계를 붉게 장악하려는 사악한 음모 뒤에 숨겨진 존재와 이유를 파헤쳐 나가는 액션 블록버스터",
+    "runtime": 118,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250207_135%2F17388962578517PWcE_JPEG%2Fmovie_image.jpg"
+  },
+  {
+    "id": 5,
+    "title": "위플래시",
+    "releaseDate": "2025-03-12",
+    "company": "(주)NEW",
+    "genres": ["드라마"],
+    "subTitle": "“세상에서 제일 해로운 말이 뭔지 알아? ‘그 정도면 잘했어’야” 미친놈 vs 미친놈, 집념과 광기가 폭발한다!",
+    "description": "뉴욕의 명문 음악 학교에 다니지만 특별히 주목받지 못하던 드러머 앤드류. 최고의 드러머를 꿈꾸며 연습에만 매진하던 그는 어느 날, 우연히 교내 최고의 밴드를 이끄는 플레쳐 교수의 눈에 띄어 그의 밴드에 발탁된다. 그러나 모욕적인 폭언과 폭력을 휘두르며 완벽을 강요하는 플레쳐 교수의 무자비한 교수법으로 인해 앤드류는 능력을 증명해야 한다는 생각에 점차 미쳐가고, 앤드류가 광기에 휩싸일수록 플레쳐 교수의 완벽을 향한 집념 역시 높아지는데…! “세상에서 제일 해로운 말이 뭔지 알아? ‘그 정도면 잘했어’야” 미친놈 vs 미친놈, 집념과 광기가 폭발한다!",
+    "runtime": 106,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250211_13%2F1739238451278AUJm0_JPEG%2Fmovie_image.jpg"
+  },
+  {
+    "id": 6,
+    "title": "존 윅",
+    "releaseDate": "2025-03-19",
+    "company": "(주)제이앤씨미디어그룹, 와이드 릴리즈㈜",
+    "genres": ["액션", "스릴러"],
+    "subTitle": "3월 19일 전설의 귀환",
+    "description": "전설이라 불리던 킬러 ‘존 윅’. 사랑하는 아내 ‘헬렌’과의 평화로운 삶도 잠시, 그녀의 죽음 이후 그에게는 아내가 남긴 강아지와 차 한 대만이 남는다. 어느 날, ‘존 윅’의 차를 노린 요제프 일당이 그의 차를 훔치고, 아내가 남긴 강아지마저 죽여버린다. 이에 분노한 ‘존 윅’은 자신의 모든 것을 앗아간 이들에게 복수하기 위해 지하에 파묻었던 총과 칼을 다시 꺼내드는데…",
+    "runtime": 101,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250306_162%2F1741233401976TRBxt_JPEG%2Fmovie_image.jpg"
+  },
+  {
+    "id": 7,
+    "title": "원더",
+    "releaseDate": "2025-02-12",
+    "company": "CGV 아트하우스, CJ CGV, (주)키노라이츠, (주)스튜디오 디에이치엘, 그린나래미디어(주)",
+    "genres": ["드라마"],
+    "subTitle": "새로운 시작을 맞이하는 모두에게",
+    "description": "누구보다 위트 있고 호기심 많은 매력 부자 ‘어기'(제이콥 트렘블레이). 하지만 남들과 다른 외모로 태어난 ‘어기'는 모두가 좋아하는 크리스마스 대신 얼굴을 감출 수 있는 할로윈을 더 좋아한다. 10살이 된 아들에게 더 큰 세상을 보여주고 싶었던 엄마 ‘이사벨’(줄리아 로버츠)과 아빠 ‘네이트’(오웬 윌슨)는 ‘어기'를 학교에 보낼 준비를 하고, 동생에게 모든 것을 양보해왔지만 누구보다 그를 사랑하는 누나 ‘비아'도 ‘어기'의 첫걸음을 응원해준다. 그렇게 가족이 세상의 전부였던 ‘어기'는 처음으로 헬멧을 벗고 낯선 세상에 용감하게 첫발을 내딛지만 첫날부터 ‘남다른 외모'로 화제의 주인공이 되고, 사람들의 시선에 큰 상처를 받는다. 그러나 ‘어기'는 27번의 성형(?)수술을 견뎌낸 긍정적인 성격으로 다시 한번 용기를 내고, 주변 사람들도 하나둘 변하기 시작하는데...",
+    "runtime": 113,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250123_251%2F1737605477501jJsWE_JPEG%2Fmovie_image.jpg"
+  },
+  {
+    "id": 8,
+    "title": "보고타: 마지막 기회의 땅",
+    "releaseDate": "2024-12-31",
+    "company": "플러스엠 엔터테인먼트",
+    "genres": ["범죄", "드라마"],
+    "subTitle": "희망 없는 인생, 기회는 그 곳에 있었다",
+    "description": "희망 없는 인생, 기회는 바로 그 곳에 있었다. 1997년 IMF의 후폭풍을 피하지 못한 국희(송중기)와 가족들은 지구 반대편 콜롬비아 보고타로 향한다. 낯선 땅에서 살아남기 위해, 한인 상인회의 권력을 쥔 박병장(권해효) 밑에서 일을 시작한 국희. 성실함으로 박병장의 눈에 띈 국희는 박병장의 테스트로 의류 밀수 현장에 가담하게 되고, 콜롬비아 세관에게 걸릴 위기 상황 속에서 목숨 걸고 박병장의 물건을 지켜내며 박병장은 물론 통관 브로커 수영(이희준)에게도 강렬하게 존재감을 각인시킨다. 곧 수영이 국희에게 위험한 제안을 하고, 이를 눈치 챈 박병장 또한 새로운 계획을 세우며 국희를 시험에 들게 한다. 본인의 선택으로 보고타 한인 사회의 판도를 바꿀 수 있음을 체감한 국희는 점점 더 큰 성공을 열망하게 되는데…",
+    "runtime": 107,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20241231_77%2F1735610159244tonW5_JPEG%2Fmovie_image.jpg"
+  },
+  {
+    "id": 9,
+    "title": "조커: 폴리 아 되",
+    "releaseDate": "2024-10-01",
+    "company": "워너 브러더스 코리아㈜",
+    "genres": ["범죄", "드라마", "뮤지컬"],
+    "subTitle": "온 세상이 바로 무대",
+    "description": "“더 이상 혼자가 아니야” 세상이란 무대에서 폭주하기 시작한 ‘조커’와 ‘할리 퀸’을 확인하라! 2년 전, 세상을 뒤흔들며 고담시 아이콘으로 자리한 ‘아서 플렉’은 아캄 수용소에 갇혀 최종 재판을 앞둔 무기력한 삶을 살아간다. 그러던 어느 날, 수용소에서 운명적으로 만난 ‘리 퀸젤’은 ‘아서’의 삶을 다시 뒤바꾸며 그의 마음 속에 잠들어 있던 ‘조커’를 깨우고 ‘리’ 역시 각성하며 자신을 ‘할리 퀸’이라 지칭하며 서로에게 깊이 빠져든다. 무고한 시민을 죽인 죄로 재판에 오르게 된 ‘아서’ 그는 최후의 심판대에서 ‘할리 퀸’과 함께 자신, ‘조커’의 이야기를 시작하는데…",
+    "runtime": 138,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20240919_160%2F17267100850257nicf_JPEG%2Fmovie_image.jpg"
+  },
+  {
+    "id": 10,
+    "title": "위키드",
+    "releaseDate": "2024-11-20",
+    "company": "유니버설 픽쳐스",
+    "genres": ["판타지", "뮤지컬"],
+    "subTitle": "누구나 세상을 날아오를 수 있어",
+    "description": "자신의 진정한 힘을 미처 발견하지 못한 '엘파바'(신시아 에리보) 자신의 진정한 본성을 아직 발견하지 못한 ‘글린다'(아리아나 그란데) 전혀 다른 두 사람은 마법 같은 우정을 쌓아간다. 그러던 어느 날, '마법사'의 초대를 받아 에메랄드 시티로 가게 되고 운명은 예상치 못한 위기와 모험으로 두 사람을 이끄는데… 마법 같은 운명의 시작, 누구나 세상을 날아오를 수 있어",
+    "runtime": 160,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20241025_137%2F17298456813576Byb7_JPEG%2Fmovie_image.jpg"
+  },
+  {
+    "id": 11,
+    "title": "고독한 미식가 더 무비",
+    "releaseDate": "2025-03-19",
+    "company": "㈜빌리언스플러스",
+    "genres": ["드라마"],
+    "subTitle": "고로 씨에게 주어진 불가능한 미션 \"궁극의 국물을 찾아라!\"",
+    "description": "우리들의 밥친구이자 프로 혼밥러 고로 씨 인생 최대 위기 발발! 옛 연인의 딸에게 연락을 받고 파리에 도착한 이노가시라 고로(마츠시게 유타카)는 어린 시절 먹었던 국물을 꼭 다시 맛보고 싶다는 노인의 황당한 부탁을 들어주기로 한다. 고로 씨는 '잇짱지루'라 불리는 그 국물의 정체를 찾아 외딴섬으로 향하던 중 폭풍을 만나 한국의 이름 모를 섬으로 떠밀려와 불법 입국 소동까지 겪는다. 이토록 험난한 모험 속에서 우연히 만나게 된 여러 사람들의 도움을 받으며 점차 궁극의 국물에 도달하게 되는데...... 프랑스 파리에서 시작해 일본의 외딴섬, 한국 남풍도 및 거제도를 찍고, 다시 일본 도쿄로! 오로지 궁극의 국물을 위한 고로 씨의 맛있는 모험이 펼쳐진다!",
+    "runtime": 110,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250304_132%2F1741064558179jh12a_JPEG%2Fmovie_image.jpg"
+  },
+  {
+    "id": 12,
+    "title": "퇴마록",
+    "releaseDate": "2025-02-21",
+    "company": "㈜쇼박스",
+    "genres": ["애니메이션", "액션", "미스터리"],
+    "subTitle": "하늘이 불타던 날, 전설이 시작된다",
+    "description": "\"삼백이 반으로 나뉘고, 다섯이 모자랄 때 불씨가 하늘을 모두 태우리라\" 수백 년간 은거하던 해동밀교의 145대 교주가 생명을 제물로 바쳐 절대 악(悪)의 힘을 얻기 위한 의식을 시작한다. 해동밀교의 다섯 호법들은 그를 막기 위해 힘을 보태줄 새로운 인물을 찾아나서고, 파문 당한 신부 박윤규, 무공을 위해 밀교를 찾은 현암, 사건의 중심에 있는 예언의 아이 준후가 합세해 거대한 악에 맞서는데... 하늘이 불타던 날, 새로운 전설이 시작된다!",
+    "runtime": 85,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250221_206%2F1740118784337N0Gbg_JPEG%2Fmovie_image.jpg"
+  },
+  {
+    "id": 13,
+    "title": "극장판 진격의 거인 완결편 더 라스트 어택",
+    "releaseDate": "2025-03-13",
+    "company": "㈜애니플러스",
+    "genres": ["애니메이션"],
+    "subTitle": "더 라스트 어택",
+    "description": "\"이것이 최후의 \"진격\"---!\" 거인의 위협으로부터 몸을 지키기 위해 거대한 벽을 쌓고 그 안에서 숨을 죽이고 살고 있는 인류. 백 년의 평화는 초대형 거인의 습격으로 파괴됐고, 어머니를 잃은 소년 엘런 예거는 모든 거인을 없앨 것을 맹세하고 거인과 싸우는 조사병단의 일원이 되었다. 글자 그대로 목숨을 건 싸움 속에서 엘런 예거는 자신도 거인이 되는 능력을 손에 넣었고 인류의 승리에 공헌하면서 조금씩 세계의 진실에 가까워지고 있었다. 이윽고 시간이 흘러 벽 밖으로 나간 엘런은 조사병단의 동료들과 갈라섰고 어떤 무시무시한 계획을 실행한다. 수많은 거인을 이끌고, 이 세계의 살아있는 모든 것들을 짓밟는 「땅울림」. 미카사와 아르민을 시작으로 남겨진 자들은 세계를 멸망시키려 하는 엘런을 막기 위해 최후의 싸움에 나선다.",
+    "runtime": 144,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250307_77%2F1741311863302jElLf_JPEG%2Fmovie_image.jpg"
+  },
+  {
+    "id": 14,
+    "title": "승부",
+    "releaseDate": "2025-03-26",
+    "company": "(주)바이포엠스튜디오",
+    "genres": ["드라마"],
+    "subTitle": "지금부터 승부",
+    "description": "세계 최고 바둑 대회에서 국내 최초 우승자가 된 조훈현. 전 국민적 영웅으로 대접받던 그는 바둑 신동이라 불리는 이창호를 제자로 맞는다. “실전에선 기세가 8할이야” 제자와 한 지붕 아래에서 먹고 자며 가르친 지 수년. 모두가 스승의 뻔한 승리를 예상했던 첫 사제 대결에서 조훈현은 전 국민이 지켜보는 가운데, 기세를 탄 제자에게 충격적으로 패한다. 오랜만에 패배를 맛본 조훈현과 이제 승부의 맛을 알게 된 이창호. 조훈현은 타고난 승부사적 기질을 되살리며 다시 한번 올라갈 결심을 하게 되는데…",
+    "runtime": 115,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250326_269%2F1742952663537eygMU_JPEG%2Fmovie_image.jpg"
+  },
+  {
+    "id": 15,
+    "title": "콘클라베",
+    "releaseDate": "2025-03-05",
+    "company": "(주)디스테이션",
+    "genres": ["드라마", "스릴러"],
+    "subTitle": "오직 한 사람만 이길 수 있다.",
+    "description": "교황의 예기치 못한 죽음 이후 새로운 교황을 선출하는 ‘콘클라베’가 시작되고, 로렌스(랄프 파인즈)는 단장으로서 선거를 총괄하게 된다. 한편 당선에 유력했던 후보들이 스캔들에 휘말리면서 교활한 음모와 탐욕이 수면 위로 드러나는데…",
+    "runtime": 120,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250205_26%2F1738724461772UMYQ5_JPEG%2Fmovie_image.jpg"
+  },
+  {
+    "id": 16,
+    "title": "스트리밍",
+    "releaseDate": "2025-03-21",
+    "company": "롯데엔터테인먼트",
+    "genres": ["스릴러"],
+    "subTitle": "연쇄살인범 추적 방송에 참여하시겠습니까?",
+    "description": "구독자 수 1위의 범죄 채널 스트리머 '우상(강하늘)'이 풀리지 않던 연쇄살인 사건의 단서를 발견하고 범인을 추적하는 과정을 실시간으로 방송하며 벌어지는 스릴러",
+    "runtime": 91,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250325_115%2F1742870770764qLuUy_JPEG%2Fmovie_image.jpg"
+  },
+  {
+    "id": 17,
+    "title": "백설공주",
+    "releaseDate": "2025-03-19",
+    "company": "월트디즈니 컴퍼니 코리아",
+    "genres": ["판타지", "뮤지컬"],
+    "subTitle": "동화 그 이상의 마법 같은 이야기",
+    "description": "눈보라가 몰아치던 겨울 밤 태어난 백설공주. 온정이 넘치던 왕국에서 모두의 사랑을 받았지만, 강력한 어둠의 힘으로 왕국을 빼앗은 여왕의 위협에 숲으로 도망친다. 마법의 숲에서 간신히 살아남은 백설공주는 신비로운 일곱 광부들과 만나게 되며 새로운 세상을 마주하고, 마음속 깊이 숨겨진 용기와 선한 힘을 깨닫게 된다. 그리고 마침내, 빼앗긴 왕국을 되찾기 위해 여왕과 맞서 싸우기로 결심하는데…",
+    "runtime": 109,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250319_123%2F1742370056144UwYpI_JPEG%2Fmovie_image.jpg"
+  },
+  {
+    "id": 18,
+    "title": "스윙걸즈",
+    "releaseDate": "2025-03-26",
+    "company": "(주)팝엔터테인먼트",
+    "genres": ["코미디"],
+    "subTitle": "우린 스윙한다! 그 누구보다 재미있게",
+    "description": "\"빅밴드 재즈? 그게 뭐하는 건데?\" 지루한 보충수업을 째고 싶었을 뿐, 토모코(색소폰) 야구부 선배에게 홀딱 반했을 뿐, 요시에(트럼펫) 남들보다 폐활량이 뛰어났을 뿐, 세키구치(트럼본) 어쩌다 친구 따라왔을 뿐, 나오미(드럼) 심벌즈가 적성에 안 맞았을 뿐, 나카무라(피아노) 짝사랑하는 재즈 덕후일 뿐, 수학 선생님(지휘) 대단한 이유 없음! 눈부신 재능 없음! 거창한 목표 없음! 그래서 우린 스윙한다♬ 그 누구보다 재미있게♬",
+    "runtime": 103,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250311_297%2F1741675957835xcn5f_JPEG%2Fmovie_image.jpg"
+  }
+]
