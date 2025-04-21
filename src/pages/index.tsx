@@ -3,10 +3,10 @@ import { ReactNode } from "react";
 import MovieItem from "@/components/movie-item";
 import style from "./index.module.css";
 import fetchMovies from "@/lib/fetch-movie";
-import { InferGetServerSidePropsType } from "next";
+import { InferGetServerSidePropsType, InferGetStaticPropsType } from "next";
 import fetchRandomMovies from "@/lib/fetch-random-movies";
 
-export const getServerSideProps = async () => {
+export const getStaticProps = async () => {
   const [movies, recoMovies] = await Promise.all([
     fetchMovies(),
     fetchRandomMovies(),
@@ -22,7 +22,7 @@ export const getServerSideProps = async () => {
 export default function Home({
   movies,
   recoMovies,
-}: InferGetServerSidePropsType<typeof getServerSideProps>) {
+}: InferGetStaticPropsType<typeof getStaticProps>) {
   return (
     <div>
       <section>
